@@ -15,5 +15,7 @@ This project aims to shed light on paranormal communication apps, ghost boxes, r
 
 - Random Word Generators, apparently random number generators have been "proven" to be manipulated by the mind - this is the basis behind spirit boxes that use random word generators ( if we can manipulate the outcome, so might ghosts )
   
-- Random Sound Players, Very simmilar to Spirit Boxes randomly playing stations on the radio, these apps randomly play audio from a sound bank that doesnt contain actual words - many use the first 200 milliseconds of words and join them together randomly.   
+- Random Sound Players, Very simmilar to Spirit Boxes randomly playing stations on the radio, these apps randomly play audio from a sound bank that doesnt contain actual words - many use the first 200 milliseconds of words and join them together randomly.
+
+- Accelerometer, In many cases the most reliable feedback you could expect is feedback on movement - if a ghost can move a lamp, open a door or somehow move a physical object, motion detectors like the accelerometer in smartphones are the most likely option available for communication as the ghost can simply tap on the phone or walk nearby and vibration will set-off the motion detector.  
   
